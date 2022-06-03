@@ -48,11 +48,11 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- GLAS
+- SAND
 - CMNT
+- GLAS
 - LIME
 - PIPE
-- SAND
 - STSE
 - STWR
 cargoProduction: []
@@ -80,7 +80,7 @@ name: Builders Yard
 placement: anywhere
 probabilityInGame: 6
 probabilityMapGen: 9
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
