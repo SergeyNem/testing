@@ -48,11 +48,11 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- SAND
-- CMNT
 - GLAS
+- CMNT
 - LIME
 - PIPE
+- SAND
 - STSE
 - STWR
 cargoProduction: []
